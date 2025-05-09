@@ -1,4 +1,4 @@
-* This repository contains the code used for conducting the study, which applies CNN-LSTM model using CAMELS dataset in the US.
+* This repository contains the code used for conducting the [study](https://doi.org/10.25831/2d20-yb78), which applies CNN-LSTM model using CAMELS dataset in the US.
 
 * The code was originally hosted on our Google Drive and was executed in the Google Colab environment, along with the folders that contains data and the output.
 
